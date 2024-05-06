@@ -1,0 +1,12 @@
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\bin\Debug\net6.0\SalesTransaction.Domain.deps.json
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\bin\Debug\net6.0\SalesTransaction.Domain.dll
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\bin\Debug\net6.0\SalesTransaction.Domain.pdb
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\obj\Debug\net6.0\SalesTransaction.Domain.csproj.AssemblyReference.cache
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\obj\Debug\net6.0\SalesTransaction.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\obj\Debug\net6.0\SalesTransaction.Domain.AssemblyInfoInputs.cache
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\obj\Debug\net6.0\SalesTransaction.Domain.AssemblyInfo.cs
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\obj\Debug\net6.0\SalesTransaction.Domain.csproj.CoreCompileInputs.cache
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\obj\Debug\net6.0\SalesTransaction.Domain.dll
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\obj\Debug\net6.0\refint\SalesTransaction.Domain.dll
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\obj\Debug\net6.0\SalesTransaction.Domain.pdb
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Domain\obj\Debug\net6.0\ref\SalesTransaction.Domain.dll

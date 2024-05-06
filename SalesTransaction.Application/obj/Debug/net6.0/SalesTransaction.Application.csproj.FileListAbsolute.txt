@@ -1,0 +1,15 @@
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\bin\Debug\net6.0\SalesTransaction.Application.deps.json
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\bin\Debug\net6.0\SalesTransaction.Application.dll
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\bin\Debug\net6.0\SalesTransaction.Application.pdb
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\bin\Debug\net6.0\SalesTransaction.Domain.dll
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\bin\Debug\net6.0\SalesTransaction.Domain.pdb
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\obj\Debug\net6.0\SalesTransaction.Application.csproj.AssemblyReference.cache
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\obj\Debug\net6.0\SalesTransaction.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\obj\Debug\net6.0\SalesTransaction.Application.AssemblyInfoInputs.cache
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\obj\Debug\net6.0\SalesTransaction.Application.AssemblyInfo.cs
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\obj\Debug\net6.0\SalesTransaction.Application.csproj.CoreCompileInputs.cache
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\obj\Debug\net6.0\SalesTra.7B189751.Up2Date
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\obj\Debug\net6.0\SalesTransaction.Application.dll
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\obj\Debug\net6.0\refint\SalesTransaction.Application.dll
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\obj\Debug\net6.0\SalesTransaction.Application.pdb
+C:\Sales Transaction\SalesTransactionAPI\SalesTransactionAPI\SalesTransaction.Application\obj\Debug\net6.0\ref\SalesTransaction.Application.dll

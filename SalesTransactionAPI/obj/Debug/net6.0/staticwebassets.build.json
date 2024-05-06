@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8US+d6c74uWIVHTNv36HqnUKukmz4VIoPyH2RhduQ9M=",
+  "Source": "SalesTransactionAPI",
+  "BasePath": "_content/SalesTransactionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
